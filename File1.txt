@@ -1,4 +1,6 @@
 hello world
 
-
 Change multiple files added to staging area
+
+
+Change for Diff
