@@ -4,3 +4,5 @@ Change multiple files added to staging area
 
 
 Change for Diff
+
+Change for bug1
