@@ -6,3 +6,5 @@ Change multiple files added to staging area
 Change for Diff
 
 Change for bug1
+
+Change for bug2, 3-way merging with conflict.
