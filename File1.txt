@@ -1,10 +1,12 @@
-hello world
-
-change multiple files added to staging area
+hello world!
 
 
-Change for Diff
+change multiple files added to staging area.
+
+Change for Diff.
 
 Change for bug1
 
 Change for WI4 by teammate, 3-way merge with conflict
+
+Change for bug2: 3-way merging with conflict.
