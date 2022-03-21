@@ -16,3 +16,5 @@ Change for WI5 by teammate to check rebase with conflict.
 change for CR1 rebase with conflict.
 
 Change for WI6 for stash in progress or half done
+
+Change for WI7 from remote master by teammate to check pull operation
