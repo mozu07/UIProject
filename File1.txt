@@ -14,3 +14,5 @@ Change for bug2: 3-way merging with conflict.
 Change for WI5 by teammate to check rebase with conflict.
 
 change for CR1 rebase with conflict.
+
+Change for WI6 for stash in progress or half done
